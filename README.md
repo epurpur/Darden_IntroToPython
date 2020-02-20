@@ -56,7 +56,7 @@ Python is a general purpose programming language used for a huge variety of purp
     - Mobile application development
 * Python is general purpose (it is not optimized for performance in one specific area)
     - Python is like a Honda CR-V (I drive a CR-V). It does it all. 
-        - If you are a construction worker, you might need a truck to haul tools and materials
+        - If you are a construction worker, you need a truck to haul tools and materials
         - If you are a race car driver, you need a sports car
     
     
@@ -93,8 +93,92 @@ When learning to program you will...
 - Be forced develop a clear line of thought
     - The code only does what you tell it to do
     - If you are confused, the computer is confused
-- Constantly adapt 
+- Constantly adapt and learn
+    - Programming languages are alive and always changing!
+
+
+# Let's Get Coding in Python
+
+## **Jupyter Notebook/JupyterLab**
+*[Jupyter Homepage](https://jupyter.org/)*
+
+Another topic to cover is Jupyter Notebooks and/or JupyterLab. 
+Jupyter Notebooks are a web-based interactive computational environment for creating notebook-like documents. It supports 
+several languages like python, R, Julia, etc.
+JupyterLab is the next generation user interface, which includes Jupyter Notebooks. 
+
+In my opinion, they seem almost exactly the same. We will be using Jupyter Notebooks today.
+
+
+## **Pandas**
+*[Pandas Homepage](https://pandas.pydata.org/)*
+
+Pandas is an open source python library providing high-performance, easy-to-use data structures and data analysis tools. We 
+will be using pandas to work with our data before feeding it into matplotlib.
+
+Pandas allows you a spreadsheet-like view of your data.
+
+
+## **Matplotlib**
+*Excerpt taken from [MatPlotLib's Website](https://matplotlib.org/):*
+
+Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and 
+interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the 
+Jupyter notebook, web application servers, and four graphical user interface toolkits.
+
+Matplotlib tries to make easy things easy and hard things possible. You can generate plots, histograms, power spectra, bar 
+charts, errorcharts, scatterplots, etc., with just a few lines of code.
+
+*From [MatPlotLib's Wikipedia page](https://en.wikipedia.org/wiki/Matplotlib):*
+Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It 
+provides an object-oriented API for embedding plots into applications
 
 
 
+# **Self Help - You don't need to remember all of this**
 
+# Learning Resources
+* Pick up a book, there are many available through the UVA library website 
+        * Learn Python the Hard Way (Available for free through UVA libraries)
+        * [Link here](https://search.lib.virginia.edu/catalog/u7434195)
+        
+* CS 1110/1111 @ UVA
+        * All resources available online for free!
+        * https://cs1110.cs.virginia.edu/
+        
+* Phd+ Course Materials
+        * All resources available online for free!
+        * https://workshops.rc.virginia.edu/lesson/python_shortcourse/python_introduction
+
+* Other resources available at UVA
+        * Research Data Services - StatLab Fellows
+        * https://data.library.virginia.edu/statlab/
+        * statlab@virginia.edu
+        * Research Computing - Provides high performance computing expertise
+            * https://www.rc.virginia.edu/
+
+# Self Help via the Internet
+  * Google 
+        * Ex: "How to make dictionary python"
+        * Ex: "python decorators"
+        
+  * Stack Overflow (https://stackoverflow.com/)
+        * A question/answer site for programming questions (actually, not just programming any more)
+        * Not only python
+        * DO NOT just ask questions, do your research first!
+            * Odds are very high someone has already asked your question, especially as a novice
+     
+  * Youtube
+        - Corey Schafer (https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+            - If you have a question about a python programming concept, Corey Schafer has covered it
+     
+  * Practice Python (http://www.practicepython.org/)
+        * Coding challenges for programmers of all levels
+        
+  * Python Tutor (http://pythontutor.com/)
+        * Visualize what your code is doing step-by-step
+        * Has limitations once you start importing libraries
+        
+  * TalkPython Training (https://training.talkpython.fm/)
+        * Not free
+        * Really awesome courses that help you get "real world" project experience
