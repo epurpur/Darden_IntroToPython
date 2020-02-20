@@ -44,7 +44,22 @@ syntax emphasizes readability and therefore reduces the cost of program maintena
 Python is a general purpose programming language used for a huge variety of purposes. It's user community is growing rapidly!
 (https://stackoverflow.blog/2017/09/06/incredible-growth-python/)
 
+# Why learn Python instead of other languages?
+* Python is not magic. Many other languages can do what python does.
+* Python is widely used and has a ton of available resources
+* Python is easy to learn
+* Python is general purpose (you can do a lot of different things with it)
 
+# What are the drawbacks of Python?
+* Keep in mind python does have drawbacks!
+    - Speed
+    - Mobile application development
+* Python is general purpose (it is not optimized for performance in one specific area)
+    - Python is like a Honda CR-V (I drive a CR-V). It does it all. 
+        - If you are a construction worker, you might need a truck to haul tools and materials
+        - If you are a race car driver, you need a sports car
+    
+    
 # Difference between R and Python?  (Simplified)
 * They are both open source programming languages
 * Python is general purpose while R is focused on statistics and data analysis
@@ -52,15 +67,7 @@ Python is a general purpose programming language used for a huge variety of purp
     * NumPy
     * SciPy
     * Pandas
-
-# Why learn Python instead of other languages?
-* Python is not magic. Many other languages can do what python does.
-* Python is widely used
-* Python is easy to learn
-* Python is general purpose (you can do a lot of different things with it)
-* Keep in mind python does have drawbacks!
-    - Speed
-    - Mobile application development
+    
     
 # Why should I care as a business person?
 Even if you don't intend to become a pro yourself, if you think you might be working with or managing developers, it can be 
@@ -68,5 +75,26 @@ really beneficial to at least have some working knowledge of what they do. Knowi
     
 A complaint heard from developers or other technical people is: "My manager is asking me to do something impossible because 
 he/she doesn't understand how the code works!". Don't be that manager. 
+
+# Important Points about Programming to Grasp
+These are not specific to python
+
+Programming allows us to...
+- Interact with computers!
+    - Who doesn't use a computer these days?
+- Automate things (perform repetitive tasks)
+    - Computers don't get bored
+    - Computers don't make mistakes (humans who create them make mistakes)
+- Analyze huge data sets 
+
+When learning to program you will...
+- Develop critical thinking skills
+    - How do I attack the problem?
+- Be forced develop a clear line of thought
+    - The code only does what you tell it to do
+    - If you are confused, the computer is confused
+- Constantly adapt 
+
+
 
 
