@@ -29,11 +29,12 @@ Introduction to Python session for UVA's Darden Business School
 # Goals for Today
 1. Get python running
 2. Learn some fundamentals
-3. Learn how to help yourself (Most Important!)
-4. Think about...Why would this help me as a manager or in a business context?
+3. Play with some data
+4. Learn how to help yourself (Most Important!)
+5. Think about...Why would this help me as a manager or in a business context?
 
 
-### What is Python?
+# What is Python?
 From [www.python.org](http://www.python.org):
 "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in 
 data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, 
