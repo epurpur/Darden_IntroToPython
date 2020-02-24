@@ -17,12 +17,11 @@ Introduction to Python session for UVA's Darden Business School
     
 * I like to be interrupted with questions! Please jump right in. 
 
-## Getting Python (this will take some time)
+## Getting Python (this will take about 10 minutes)
 * [Windows](https://www.anaconda.com/download/#windows)
 * [Mac](https://www.anaconda.com/download/#macos)
 
 ## Getting the files we are working with today
-* Go here: https://github.com/epurpur/python-intro
 * Click "Clone or Download" (green button in upper right corner)
 * Click "Download Zip"
 * Unzip that directory and move it somewhere that is easy to find (like your Desktop, for example)
@@ -35,7 +34,7 @@ Introduction to Python session for UVA's Darden Business School
 
 
 ### What is Python?
-From www.python.org:
+From [www.python.org](http://www.python.org):
 "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in 
 data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, 
 as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn 
@@ -43,6 +42,13 @@ syntax emphasizes readability and therefore reduces the cost of program maintena
 
 Python is a general purpose programming language used for a huge variety of purposes. It's user community is growing rapidly!
 (https://stackoverflow.blog/2017/09/06/incredible-growth-python/)
+
+# Object Oriented Programming (Very Brief Overview)
+I mentioned that python is an Object Oriented Language. What does that mean?
+
+Object oriented languages (Python, Java, C++ for example) use objects which contain data in the form of fields, and code in 
+the form of procedures. In object oriented programming, computer programs are designed by making them out of objects that 
+interace with one another. Python is a class-based language, meaning objects are an instance of a class.
 
 # Why learn Python instead of other languages?
 * Python is not magic. Many other languages can do what python does.
@@ -96,6 +102,15 @@ When learning to program you will...
 - Constantly adapt and learn
     - Programming languages are alive and always changing!
 
+# Python is an Embedded Language
+Because python is a popular language, it is sometimes embedded inside another programs so that you can natively code in 
+python to make that program do things. This allows you to implement the functionality of that program in python instead of C 
+or C++ (which is probably running behind python). Often there is a terminal-like window or IDE embedded within the program. 
+This is hugely useful for automating tasks, creating custom functionality, etc. 
+
+Example:
+    - python module in Tableau
+    - python module in nearly all GIS softwares including ArcGIS and QGIS
 
 # Let's Get Coding in Python
 
@@ -137,7 +152,15 @@ provides an object-oriented API for embedding plots into applications
 
 # **Self Help - You don't need to remember all of this**
 
-# Learning Resources
+# Learning Resources - My other workshops
+* [Intro to Python (more in depth Introduction)](https://github.com/epurpur/python-intro)
+* [Python and APIs](https://github.com/epurpur/pythonAPI)
+* [Python Data Visualization (MatPlotLib)](https://github.com/epurpur/PythonDataViz)
+* [Python Web Scraping](https://github.com/epurpur/PythonWebScraping)
+
+
+
+# More Resources
 * Pick up a book, there are many available through the UVA library website 
         * Learn Python the Hard Way (Available for free through UVA libraries)
         * [Link here](https://search.lib.virginia.edu/catalog/u7434195)
