@@ -5,12 +5,12 @@ Introduction to Python session for UVA's Darden Business School
 * Erich Purpur
 * Research Librarian for Science & Engineering
 
-* I'm a librarian here at UVA [Research Data Services](https://data.library.virginia.edu/rds-staff/)
-    -I'm a liaison to various engineering departments. Basically, if they need stuff from the library
-    I try to make it available for them.  I do quite a bit of teaching both in one off workshops like
-    this, ongoing series (PhD+), and for-credit courses. I teach courses releated to python programming and
-    Geographic Information Systems (GIS) I also sometimes help people with GIS (Geographic Information Systems)
-    projects and programming-related questions. And do various side projects as they arise.
+I'm a part of a group called [research data services](https://data.library.virginia.edu/) and I do these things:
+    
+    1. Serve as Liaison to various engineering departments
+    2. Teach workshops and classes (like this one)
+    3. Help people with research projects
+    4. Random other things as they come up
     
     * ep9k@virginia.edu 
     * Brown Science & Engineering Library office i046
